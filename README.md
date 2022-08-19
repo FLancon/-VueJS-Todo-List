@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+# [VueJs] Todo-List
+Add your objectives to this Todo-List :
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+![Screenshot Page D'acceuil]([https://github.com/FLancon/GitHub-User-Finder/blob/22f729f6153e77b1932c4864132cd7efed7aceb6/assets/Sreenshot-1.png](https://github.com/FLancon/-VueJS-Todo-List/blob/dc691a63660f5ee61da9a28629472a383f729aa1/src/assets/Capture%20d%E2%80%99%C3%A9cran%202022-08-19%20%C3%A0%2011.49.11.png?raw=true)
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+⭐️ Try it now : 
+https://storied-rolypoly-93bc61.netlify.app/
